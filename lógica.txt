@@ -1,0 +1,6 @@
+a: 9 pois é uma sequência de números ímpares.
+b: 128 pois é uma multiplicação por 2.
+c: 49 é a soma do resultado com números ímpares.
+d: 100 é o quadrado do resultado.
+e: 13 é a soma do elemento + o resultado.
+f: 200 pois são sequências de números que iniciam com D. 
