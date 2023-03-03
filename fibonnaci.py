@@ -1,3 +1,4 @@
+#Python
 fibo = int(input('Digite o número desejado: '))
 
 a, b = 0, 1
